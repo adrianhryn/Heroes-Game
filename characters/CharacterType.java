@@ -1,0 +1,8 @@
+package characters;
+
+public enum CharacterType {
+    HOBBIT, ELF, KNIGHT, KING, SWORDMAN, BLUEHOBBIT, REDHOBBIT, BLUEELF, REDELF, BLUEKNIGHT, REDKNIGHT, BLUEKING,
+    REDKING;
+
+
+}
